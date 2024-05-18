@@ -1,0 +1,71 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmproj
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
+
+# iOS
+/[Bb]uild/[Ii]OS/
+/[Bb]uild/[Ii]OS[ _][Dd]evice/
+/[Bb]uild/[Ii]OS[ _][Ss]imulator/
+/[Bb]uild/[Ii]OS[ _][Ss]imulator[ _][Ss]cripts/
+
+# Android
+/[Bb]uild/[Aa]ndroid/
+/[Bb]uild/[Aa]ndroid[ _][Aa]pp/
+/[Bb]uild/[Aa]ndroid[ _][Bb]uild/
+/[Bb]uild/[Aa]ndroid[ _][Gg]radle[ _][Oo]ut/
+
+# Custom Gradle file
+/[Bb]uild/[Aa]ndroid/[Cc]ustom[ Gg]radle[ Ff]iles/
+
+# Gradle
+.gradle/
+.git
