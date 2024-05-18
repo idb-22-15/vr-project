@@ -10,7 +10,7 @@ public class AnimationManager : MonoBehaviour
     void Start()
     {
         // StartCoroutine(WaitForThreeSeconds());
-        StartAnimationScene();
+        // StartAnimationScene();
     }
 
     IEnumerator WaitForThreeSeconds()
